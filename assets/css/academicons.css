@@ -326,11 +326,6 @@
   margin-left: .3em;
 }
 
-
 .error-404-gif{
   max-width: 50%
-}
-
-p:has(>.error-404-gif){
-text-align: center;
 }
