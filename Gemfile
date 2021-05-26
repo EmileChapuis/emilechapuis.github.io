@@ -26,4 +26,6 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem 'jekyll-sitemap'
   gem 'hawkins'
+  gem 'kramdown-parser-gfm'
+  gem "webrick"
 end
