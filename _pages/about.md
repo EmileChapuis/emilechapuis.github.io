@@ -9,7 +9,7 @@ redirect_from:
 About Me
 ------
 I am a third year PhD student in the [SSA group](http://www.tsi.telecom-paristech.fr/ssa/) at [Télécom Paris](https://www.telecom-paris.fr/?gclid=CjwKCAiAsIDxBRAsEiwAV76N89LYpkw3jL-RpHJRYMKXNca6sT3YVTEluBSXak3h9QT1rJ1CXr3DuBoC2LUQAvD_BwE).
-I conduct my PhD under the supervision of [Chloé Clavel](https://clavel.wp.imt.fr/) (Télécom Paris), [Matthieu Labeau](https://perso.limsi.fr/labeau/index.html) (Télécom Paris). I am working on Natural Language Understanding and Representation of Natural Language.
+I conduct my PhD under the supervision of [Chloé Clavel](https://clavel.wp.imt.fr/) (Télécom Paris) and [Matthieu Labeau](https://perso.limsi.fr/labeau/index.html) (Télécom Paris). I am working on Natural Language Understanding and Representation of Natural Language.
  
 Where I come from ...
 ------
